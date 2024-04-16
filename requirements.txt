@@ -1,0 +1,10 @@
+opencv-python
+anthropic
+yt-dlp
+requests
+certifi
+ipython
+pytube
+python-dotenv
+openai-whisper
+# ALSO YOU NEED TO INSTall ffmpeg using "brew install ffmpeg"
