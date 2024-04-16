@@ -16,7 +16,7 @@ Before running the script, make sure you have the following dependencies install
 
 You also need to have an Anthropic API key stored in a .env file.
 
-you also need to have ffmpeg installed, if you have a mac, then just doin brew install ffmpeg should work.
+you also need to have ffmpeg installed, if you have a mac, then just doing 'brew install ffmpeg' should work.
 
 ## Usage
 
