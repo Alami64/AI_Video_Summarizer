@@ -16,6 +16,8 @@ Before running the script, make sure you have the following dependencies install
 
 You also need to have an Anthropic API key stored in a .env file.
 
+you also need to have ffmpeg installed, if you have a mac, then just doin brew install ffmpeg should work.
+
 ## Usage
 
 1. Set the url variable to the YouTube video URL you want to summarize.
