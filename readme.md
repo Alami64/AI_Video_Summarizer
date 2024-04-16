@@ -13,6 +13,7 @@ Before running the script, make sure you have the following dependencies install
 * opencv-python
 * numpy
 * whisper
+* ffmpeg
 
 You also need to have an Anthropic API key stored in a .env file.
 
